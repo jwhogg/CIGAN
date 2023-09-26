@@ -1,0 +1,1 @@
+/Users/joelhogg/Documents/disertation stuff/code/DL_methods/GAN/my_gan/CIGAN/graphs_10nodes_linear/linear_10nodes_50samples_number_24_data.csv
