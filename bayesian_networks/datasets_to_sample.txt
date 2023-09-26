@@ -1,0 +1,13 @@
+/Users/joelhogg/Documents/disertation stuff/bench_datasets/EXPERIMENTATION/bayesian_networks/bifs/alarm.bif
+/Users/joelhogg/Documents/disertation stuff/bench_datasets/EXPERIMENTATION/bayesian_networks/bifs/asia.bif
+/Users/joelhogg/Documents/disertation stuff/bench_datasets/EXPERIMENTATION/bayesian_networks/bifs/barley.bif
+/Users/joelhogg/Documents/disertation stuff/bench_datasets/EXPERIMENTATION/bayesian_networks/bifs/cancer.bif
+/Users/joelhogg/Documents/disertation stuff/bench_datasets/EXPERIMENTATION/bayesian_networks/bifs/child.bif
+/Users/joelhogg/Documents/disertation stuff/bench_datasets/EXPERIMENTATION/bayesian_networks/bifs/earthquake.bif
+/Users/joelhogg/Documents/disertation stuff/bench_datasets/EXPERIMENTATION/bayesian_networks/bifs/hailfinder.bif
+/Users/joelhogg/Documents/disertation stuff/bench_datasets/EXPERIMENTATION/bayesian_networks/bifs/hepar2.bif
+/Users/joelhogg/Documents/disertation stuff/bench_datasets/EXPERIMENTATION/bayesian_networks/bifs/insurance.bif
+/Users/joelhogg/Documents/disertation stuff/bench_datasets/EXPERIMENTATION/bayesian_networks/bifs/mildew.bif
+/Users/joelhogg/Documents/disertation stuff/bench_datasets/EXPERIMENTATION/bayesian_networks/bifs/sachs.bif
+/Users/joelhogg/Documents/disertation stuff/bench_datasets/EXPERIMENTATION/bayesian_networks/bifs/survey.bif
+/Users/joelhogg/Documents/disertation stuff/bench_datasets/EXPERIMENTATION/bayesian_networks/bifs/water.bif
