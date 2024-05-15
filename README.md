@@ -1,6 +1,8 @@
 # CIGAN
 University dissertation research project- Causal Implicit GAN, Causal Discovery using a novel GAN structure
 
+CIGAN levarages a GAN architecture, trained on ground-truth causal datasets, to generate new causal graphs, as DAGs (directed graphs)
+
 ## Quickstart
 
 - It is reccomended that you use a jupyter notebook to get started, you can set up the model like this:
