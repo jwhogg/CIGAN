@@ -1,7 +1,9 @@
 # CIGAN
-University dissertation research project- Causal Implicit GAN, Causal Discovery using a novel GAN structure
+University dissertation research project- Causal Implicit GAN, Causal Discovery using a novel GAN structure. For this research, I received a score of 83 (high first). Please note this is an experimental project, so the code is not production-quality.
 
 CIGAN levarages a GAN architecture, trained on ground-truth causal datasets, to generate new causal graphs, as DAGs (directed graphs)
+![image](https://github.com/jwhogg/CIGAN/assets/72028103/b63b8386-93fe-4756-8105-eed63bcc5ca6)
+Example of an output from CIGAN
 
 ## Quickstart
 
